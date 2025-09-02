@@ -39,7 +39,7 @@ Para desplegar el proyecto de manera local:
 ```bash
   npm run dev
 ```
-O puede probarlo simplemente accediendo a este link: markotodo.vercel.app/
+O puede probarlo simplemente accediendo a este link: https://markotodo.vercel.app
 
 > [!NOTE]
 > Si experimenta fallas al acceder en vercel, puede ser que los servidores no esten funcionando muy bien debido a que es un servicio gratuito. Puede esperar o recargar el sitio.
