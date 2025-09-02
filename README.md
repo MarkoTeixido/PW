@@ -4,7 +4,7 @@
 
 Esta es una Aplicación frontend responsiva desarrollada con React para gestionar tareas de forma sencilla e intuitiva. Funciona sin backend, con toda la lógica implementada en el cliente, lo que facilita su despliegue en servidores estáticos.
 
-![ToDo_shots_so](https://postimg.cc/zLfZGf6L)
+![ToDo_shots_so](https://i.postimg.cc/2CJVknbg/610shots-so.png)
 
 ## Stack de Tecnologías🎇
 
